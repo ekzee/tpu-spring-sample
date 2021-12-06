@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "app.firebase-config-file",
+      "type": "java.lang.String",
+      "description": "Description for app.firebase-config-file."
+  }
+] }
